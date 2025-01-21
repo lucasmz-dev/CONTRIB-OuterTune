@@ -42,7 +42,6 @@
 <!-- Settings -->
     <string name="grp_interface">Interface</string>
     <string name="grp_layout">Layout</string>
-    <string name="logout">Logout</string>
     <string name="prefs_advanced">Advanced</string>
     <string name="settings_debug">Debug</string>
 
