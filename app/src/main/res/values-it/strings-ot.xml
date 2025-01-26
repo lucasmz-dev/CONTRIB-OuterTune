@@ -14,4 +14,20 @@
     <string name="select">Modalità selezione</string>
     <string name="sort_by_date_modified">Data modificata</string>
     <string name="folders">Cartelle</string>
+    <string name="player_background_gradient">Gradiente</string>
+    <string name="player_background_style">Stile sfondo del player</string>
+    <string name="player_background_blur">Blur</string>
+    <string name="prefs_advanced">Avanzate</string>
+    <string name="create_sync_playlist_description">Nota: questo consente la sincronizzazione con YouTube Music. Questo NON è modificabile in seguito. Non puoi aggiungere brani locali alle playlist sincronizzate.</string>
+    <string name="sort_by_date_released">Data di uscita</string>
+    <string name="sort_by_play_count">Ascolti</string>
+    <string name="play_count">Ascolti</string>
+    <string name="create_sync_playlist">Playlist sincronizzata</string>
+    <string name="settings_debug">Debug</string>
+    <string name="special_thanks">Ringraziamenti speciali</string>
+    <string name="grp_layout">Layout</string>
+    <string name="player_background_default">Segui tema</string>
+    <string name="new_interface">Nuovo layout dell\'interfaccia</string>
+    <string name="attrib_zhuang">Zion Huang per InnerTune</string>
+    <string name="grp_interface">Interfaccia</string>
 </resources>
