@@ -14,7 +14,7 @@
     <string name="ytm_sync">Автоматично синхронізуватися з вашим обліковим записом YouTube Music</string>
     <string name="scanner_online_artist_linking">Спробувати зв\'язати виконавців локальних файлів з виконавцями в YouTube Music</string>
     <string name="folders">Теки</string>
-    <string name="local_scanner_title">Локальний сканер</string>
+    <string name="scanner_local_title">Локальний сканер</string>
     <string name="library">Бібліотека</string>
     <string name="local_history">Локальна</string>
     <string name="remote_history">Віддалена</string>
@@ -41,7 +41,7 @@
     <string name="slim_navbar_title">Тонка панель навігації</string>
     <string name="tab_arrangement">Упорядкувати вкладки</string>
     <string name="like_autodownload">Автоматично завантажувати вподобані пісні</string>
-    <string name="localization">Локалізація</string>
+    <string name="grp_localization">Локалізація</string>
     <string name="token_hidden">Натисніть, щоб показати токен</string>
     <string name="token_shown">Натисніть знову, щоб скопіювати або відредагувати</string>
     <string name="wifi_only">Тільки по Wi-Fi</string>
@@ -66,8 +66,8 @@
     <string name="scan_paths_add_folder">Додати нову теку</string>
     <string name="scan_paths_incl">Сканувати шляхи</string>
     <string name="scan_paths_excl">Виключені шляхи сканування</string>
-    <string name="manual_scanner_title">Ручне сканування</string>
-    <string name="scanner_settings_title">Додаткові налаштування сканера</string>
+    <string name="grp_manual_scanner">Ручне сканування</string>
+    <string name="grp_extra_scanner_settings">Додаткові налаштування сканера</string>
     <string name="scanner_strict_file_name_title">Суворі назви файлів</string>
     <string name="scanner_sensitivity_title">Налаштувати чутливість сканера</string>
     <string name="scanner_sensitivity_L1">Збіг назви</string>
@@ -89,11 +89,11 @@
     <string name="settings_debug">Налагодження</string>
     <string name="special_thanks">Особлива подяка</string>
     <string name="token_adv_login_description">Це РОЗШИРЕНИЙ метод входу. Як альтернатива вебпорталу, ви можете безпосередньо ввести або оновити свій токен для входу тут. Наприклад, це може прискорити вхід на декількох пристроях. Зверніть увагу, що будь-які недійсні формати токенів, які застосунок не зможе розпізнати, не будуть прийняті</string>
-    <string name="audio">Звук</string>
+    <string name="grp_audio">Звук</string>
     <string name="lyrics_prefer_local">Надавати перевагу локальним файлам текстів пісень</string>
     <string name="keep_alive_description">Використовуйте сповіщення на передньому плані, щоб запобігти випадковому закриттю OuterTune системою.</string>
     <string name="auto_scanner_title">Автоматично сканувати</string>
-    <string name="proxy">Проксі</string>
+    <string name="grp_proxy">Проксі</string>
     <string name="lyrics_prefer_local_description">Надавати пріоритет локальним файлам текстів пісень перед використанням усіх хмарних провайдерів. Вимкніть це, щоби визначити пріоритетність хмарних провайдерів</string>
     <string name="scanner_strict_file_name_description">Якщо увімкнено, назви файлів НЕ ігноруватимуться. Наприклад, «Song.ogg» буде відрізнятися від «Song.flac». Налаштування чутливості сканера все одно буде застосовано</string>
     <string name="scanner_type_ffmpeg_ext">Використовувати витягувач метаданих FFMpeg. Потребує встановлення зовнішнього пакета</string>
